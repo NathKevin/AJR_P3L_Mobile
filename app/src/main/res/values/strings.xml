@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Atma Jogja Rental</string>
+    <string name="loginTitle">LOGIN</string>
+    <string name="register">Tidak punya akun? Register melalui website AJR</string>
+    <string name="AJR">ATMA JOGJA RENTAL</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="clr">Clear</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profil</string>
+    <string name="keteranganEdit">Ingin ubah data anda? Akses website AJR.</string>
+    <string name="detilTransaksi">Detil Transaksi</string>
+    <string name="detilPeminjaman">Detil Peminjaman</string>
+    <string name="detilMobil">Detil Mobil</string>
+    <string name="detilDriver">Detil Driver</string>
+    <string name="detilPembayaran">Detil Pembayaran</string>
+    <string name="ubah">Ubah</string>
+</resources>
